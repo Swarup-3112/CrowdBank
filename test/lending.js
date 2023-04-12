@@ -40,7 +40,7 @@ contract('Lending', async ([owner, alice, bob]) => {
     );
     await contractInstance.acceptProposal(10, 2, 0, {
       from: bob,
-      gasPrice: 8000000000,
+      gasPrice: 100000,
       gas: 4700000,
     });
 

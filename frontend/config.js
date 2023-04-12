@@ -1,5 +1,5 @@
-const address = "0x724e0a9C10E43654C0665b8114022da349A7B11A";
-const address_2 = "0x77332191c51184AcfFbBaE40CbFc04b110eD25c9";
+const address = "0x1fc53B8ae862c441e92e4032ae960D79071f62DB";
+const address_2 = "0xb753D25C229bb6d37ce219b9FE717e769B879445";
 
 const abi =[
   {
